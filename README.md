@@ -94,3 +94,16 @@ The original 11 standalone Vite projects are preserved under `legacy/screens/scr
 ## Design source
 
 Original designs exported from [Flowstep](https://app.flowstep.ai/).
+
+
+<img width="7680" height="4320" alt="Screen 11" src="https://github.com/user-attachments/assets/390c2014-a15e-43c4-bbbd-17c247e78f71" />
+<img width="7680" height="5712" alt="Screen 10" src="https://github.com/user-attachments/assets/907e6081-d45e-4c47-aeef-98b75553ddad" />
+<img width="7680" height="4320" alt="Screen 9" src="https://github.com/user-attachments/assets/f898e3e4-a7a2-4f91-8d3a-243f9333b5a0" />
+<img width="7680" height="7328" alt="Screen 8" src="https://github.com/user-attachments/assets/2bab4faa-7eee-4808-abe1-1732f07d2eca" />
+<img width="7680" height="5000" alt="Screen 7" src="https://github.com/user-attachments/assets/8b0a2dea-d629-47c8-b351-b08ca1a65e35" />
+<img width="7680" height="6004" alt="Screen 6" src="https://github.com/user-attachments/assets/e6a4f454-8c28-4716-82d2-fddbd70d8644" />
+<img width="7680" height="5472" alt="Screen 5" src="https://github.com/user-attachments/assets/2fce243b-e87c-4230-b2a8-d0c28c7ddefc" />
+<img width="7680" height="7852" alt="Screen 4" src="https://github.com/user-attachments/assets/dfbcee82-0b17-43b3-8ea1-c645175a8a95" />
+<img width="7680" height="5828" alt="Screen 3" src="https://github.com/user-attachments/assets/7800921b-f4fe-422a-ba9f-64cfeed640c5" />
+<img width="7680" height="4768" alt="Screen 2" src="https://github.com/user-attachments/assets/2291b305-b869-41ae-bb64-b5a825f69e4a" />
+<img width="7680" height="5200" alt="Screen 1" src="https://github.com/user-attachments/assets/856e71c8-e1bf-4e44-bba3-5f34f6a73ebf" />
